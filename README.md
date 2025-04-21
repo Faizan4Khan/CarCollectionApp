@@ -56,7 +56,7 @@ new repository
       <input type="text" name="CarModel" placeholder="Car name with model">
       
         <fieldset>
-          <legend>Is your car an Classic or Modern cat?</legend>
+          <legend>Is your car a Classic or Modern car?</legend>
           <label><input checked id="" type="radio" name="Classic-Modern" value="Classic"> Classic</label>
           <label><input id="outdoor" type="radio" name="Classic-Modern" value="Modern"> Modern</label>
         </fieldset>
